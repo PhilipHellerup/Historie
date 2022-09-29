@@ -1,2 +1,2 @@
-# Historie
+# EPIC HISTORY
 AN EPIC STORY!
