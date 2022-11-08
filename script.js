@@ -18,7 +18,3 @@ let myQuestions = [
 		correctAnswer: 'c'
 	}
 ];
-class Quiz(q,a){
-
-    Quiz(i)
-}
