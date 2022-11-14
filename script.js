@@ -1,7 +1,5 @@
 
-let k = document.getElementById("tal")
-let h = document.getElementById("text")
-
-let s
+let scoreTal = document.getElementById("tal")
+scoreTal.innerHTML = "10"
 
 
